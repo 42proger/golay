@@ -1,6 +1,10 @@
 # Golay Code Implementation in JavaScript
 
+[![Deploy to GitHub Pages](https://github.com/42proger/golay/actions/workflows/deploy.yml/badge.svg)](https://github.com/42proger/golay/actions/workflows/deploy.yml)
+
 This repository contains an implementation of the Golay code [24, 12] in JavaScript. The Golay code is a type of error correcting code that can detect and correct multiple errors in a 24-bit block of data. This implementation is designed for educational purposes and demonstrates how encoding, error injection and decoding processes work using the Golay code.
+
+**Live Demo**: You can view and interact with the implementation at: https://42proger.github.io/golay/
 
 ## Features
 
