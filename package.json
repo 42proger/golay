@@ -8,6 +8,7 @@
     "build": "rollup -c"
   },
   "devDependencies": {
+    "fs-extra": "^11.2.0",
     "rollup": "^4.17.2"
   },
   "repository": {
