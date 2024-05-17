@@ -1,0 +1,26 @@
+{
+  "name": "golay",
+  "version": "0.0.1",
+  "description": "Simple Implementation of Golay Codes [24, 12] in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42proger/golay.git"
+  },
+  "keywords": [
+    "golay"
+  ],
+  "author": "42proger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/42proger/golay/issues"
+  },
+  "homepage": "https://github.com/42proger/golay#readme"
+}
